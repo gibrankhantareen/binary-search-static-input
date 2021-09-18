@@ -39,3 +39,5 @@ if result != False:
     print ("Congratulations, your Element is present at index: ",result)
 else:
     print ("Sorry your element is not present in array")
+    
+print("\n-----This Code is Made by Gibran Khan Tareen-----")
